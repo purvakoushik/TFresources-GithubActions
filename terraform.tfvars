@@ -1,1 +1,1 @@
-bucketName = "purva-bucket-github_actions"
+bucketName = "purva-bucket-github-actions"
